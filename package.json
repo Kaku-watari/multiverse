@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-multiverse",
+  "name": "multiversesample",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Multiverse by HTML5 UP",
+  "description": "Multiverse Sample",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-multiverse.git"
+    "url": "git+https://multiversesample.netlify.com/"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Kaku / HARRY Co.,Ltd.",
+    "email": "info@bhb-harry.co.jp"
   },
   "dependencies": {
     "gatsby": "^2.4.3",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-multiverse/issues"
+    "url": "http://bhb-harry.co.jp"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-multiverse#readme"
+  "homepage": "http://bhb-harry.co.jp"
 }
