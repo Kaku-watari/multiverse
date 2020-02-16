@@ -120,7 +120,6 @@ const IndexPage = () => (
                 <th>ID</th>
                 <th>Name</th>
                 <th>Description</th>
-                <th>Price</th>
               </tr>
             </thead>
             <tbody>
@@ -128,31 +127,27 @@ const IndexPage = () => (
                 <td>45815</td>
                 <td>Something</td>
                 <td>Ut porttitor sagittis lorem quis nisi ornare.</td>
-                <td>29.99</td>
               </tr>
               <tr>
                 <td>24524</td>
                 <td>Nothing</td>
                 <td>Ut porttitor sagittis lorem quis nisi ornare.</td>
-                <td>19.99</td>
               </tr>
               <tr>
                 <td>45815</td>
                 <td>Something</td>
                 <td>Ut porttitor sagittis lorem quis nisi ornare.</td>
-                <td>29.99</td>
               </tr>
               <tr>
                 <td>24524</td>
                 <td>Nothing</td>
                 <td>Ut porttitor sagittis lorem quis nisi ornare.</td>
-                <td>19.99</td>
               </tr>
             </tbody>
             <tfoot>
               <tr>
                 <td colSpan="3" />
-                <td>100.00</td>
+                {/* <td>100.00</td> */}
               </tr>
             </tfoot>
           </table>
@@ -171,7 +166,7 @@ const IndexPage = () => (
                 name="name"
                 id="name"
                 defaultValue=""
-                placeholder="John Doe"
+                placeholder="Your Name"
               />
             </div>
             <div className="col-6 col-12-mobile">
@@ -181,7 +176,7 @@ const IndexPage = () => (
                 name="email"
                 id="email"
                 defaultValue=""
-                placeholder="johndoe@domain.tld"
+                placeholder="example@example.com"
               />
             </div>
             <div className="col-12">
