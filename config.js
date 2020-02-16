@@ -8,29 +8,29 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-multiverse/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'Anubhav',
-  subHeading: 'Web Developer',
+  heading: 'HARRY Co.,Ltd.',
+  subHeading: 'We are Web Developer',
   // social
   socialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://multiversesample.netlify.com/',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://multiversesample.netlify.com/',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://multiversesample.netlify.com/',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:info@bhb-harry.co.jp',
     },
   ],
 };
