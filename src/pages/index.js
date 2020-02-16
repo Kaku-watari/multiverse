@@ -73,7 +73,7 @@ const img_set = [
   {
     src: require('../assets/images/fulls/12.jpg'),
     thumbnail: require('../assets/images/thumbs/12.jpg'),
-    title: 'Nature',
+    title: 'Yummy',
     desc: 'Be one with the nature',
   },
 ];
