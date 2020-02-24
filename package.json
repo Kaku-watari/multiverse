@@ -1,5 +1,5 @@
 {
-  "name": "multiversesample",
+  "name": "multiverse",
   "version": "0.0.1",
   "description": "Multiverse Sample",
   "repository": {
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "http://bhb-harry.co.jp"
+    "url": "https://bhb-harry.netlify.com"
   },
-  "homepage": "http://bhb-harry.co.jp"
+  "homepage": "https://bhb-harry.netlify.com"
 }

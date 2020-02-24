@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Multiverse', // <title>
+  siteTitle: 'Multiverse sample page', // <title>
   manifestName: 'Multiverse',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -15,17 +15,17 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://multiversesample.netlify.com/',
+      url: 'https://bhb-harry.netlify.com',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://multiversesample.netlify.com/',
+      url: 'https://bhb-harry.netlify.com',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://multiversesample.netlify.com/',
+      url: 'https://bhb-harry.netlify.com',
     },
     {
       icon: 'fa-envelope-o',
