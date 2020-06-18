@@ -8,8 +8,8 @@ module.exports = {
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
   pathPrefix: `/gatsby-starter-multiverse/`, // This path is subpath of your hosting https://domain/portfolio
-  heading: 'HARRY Co.,Ltd.',
-  subHeading: 'We are Web Developer',
+  heading: 'Kaku Web Design',
+  subHeading: 'I am a Web Developer',
   // social
   socialLinks: [
     {
@@ -30,7 +30,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:info@bhb-harry.co.jp',
+      url: 'mailto:0825kaku@gmail.com',
     },
   ],
 };
